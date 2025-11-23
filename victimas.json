@@ -1,0 +1,2368 @@
+[
+  {
+    "_id": "1a8af3ea-b8c1-4f9a-9971-d1df401c3dc6",
+    "tipo_documento": "CE",
+    "numero_documento": "5815423649",
+    "nombre_completo": "Miguel García",
+    "fecha_nacimiento": "2007-01-09",
+    "genero": "Masculino",
+    "nucleo_familiar": [
+      {
+        "nombre": "Ruth Gutiérrez González",
+        "relacion": "hijo",
+        "edad": 8
+      },
+      {
+        "nombre": "Diego Urías Juárez",
+        "relacion": "hijo",
+        "edad": 13
+      }
+    ],
+    "estado_registro": "Rechazado",
+    "fecha_registro": "2024-06-26",
+    "ultima_actualizacion": "2025-11-12"
+  },
+  {
+    "_id": "60a03431-5fd2-4c10-be6b-b839f8b2eb1d",
+    "tipo_documento": "CC",
+    "numero_documento": "3750499966",
+    "nombre_completo": "María Jennifer Castrillón Gutiérrez",
+    "fecha_nacimiento": "2006-05-23",
+    "genero": "Femenino",
+    "nucleo_familiar": [
+      {
+        "nombre": "Ing. Claudia Perea",
+        "relacion": "esposa",
+        "edad": 64
+      },
+      {
+        "nombre": "Rosario Morales",
+        "relacion": "hija",
+        "edad": 12
+      }
+    ],
+    "estado_registro": "Rechazado",
+    "fecha_registro": "2024-10-17",
+    "ultima_actualizacion": "2025-01-18"
+  },
+  {
+    "_id": "4bfd2b03-db32-4021-9017-71d174b89519",
+    "tipo_documento": "TI",
+    "numero_documento": "4058871995",
+    "nombre_completo": "Adela Romo Zelaya",
+    "fecha_nacimiento": "1979-11-02",
+    "genero": "Otro",
+    "nucleo_familiar": [
+      {
+        "nombre": "Carlos Cifuentes",
+        "relacion": "hija",
+        "edad": 3
+      }
+    ],
+    "estado_registro": "Aceptado",
+    "fecha_registro": "2025-07-08",
+    "ultima_actualizacion": "2025-08-04"
+  },
+  {
+    "_id": "497e956c-dd16-40b6-9605-c0bda9d1087e",
+    "tipo_documento": "CC",
+    "numero_documento": "4920057464",
+    "nombre_completo": "Santiago Luis Acosta",
+    "fecha_nacimiento": "1972-07-27",
+    "genero": "Femenino",
+    "nucleo_familiar": [
+      {
+        "nombre": "Felipe Valverde",
+        "relacion": "esposo",
+        "edad": 33
+      },
+      {
+        "nombre": "Luz Sofía Ibarra Mena",
+        "relacion": "hijo",
+        "edad": 4
+      },
+      {
+        "nombre": "Mary Ceballos Torres",
+        "relacion": "hijo",
+        "edad": 17
+      },
+      {
+        "nombre": "Julián Felipe Rojas Orozco",
+        "relacion": "hijo",
+        "edad": 10
+      }
+    ],
+    "estado_registro": "En proceso",
+    "fecha_registro": "2024-05-28",
+    "ultima_actualizacion": "2024-08-31"
+  },
+  {
+    "_id": "1e143d6c-2318-4267-b6e0-82e4d0c725f9",
+    "tipo_documento": "TI",
+    "numero_documento": "9875962585",
+    "nombre_completo": "Mtro. Cristal Colunga",
+    "fecha_nacimiento": "1959-07-16",
+    "genero": "Femenino",
+    "nucleo_familiar": [
+      {
+        "nombre": "María Cristina Israel Nieves",
+        "relacion": "esposo",
+        "edad": 76
+      }
+    ],
+    "estado_registro": "Aceptado",
+    "fecha_registro": "2024-05-13",
+    "ultima_actualizacion": "2024-10-13"
+  },
+  {
+    "_id": "7178a126-f9ba-4d2c-97c0-925f385808e0",
+    "tipo_documento": "CE",
+    "numero_documento": "0519656583",
+    "nombre_completo": "Laura Marcela Rojas Delgado",
+    "fecha_nacimiento": "1979-11-27",
+    "genero": "Otro",
+    "nucleo_familiar": [
+      {
+        "nombre": "Maximiliano Villanueva",
+        "relacion": "esposo",
+        "edad": 66
+      }
+    ],
+    "estado_registro": "Aceptado",
+    "fecha_registro": "2025-04-04",
+    "ultima_actualizacion": "2025-11-09"
+  },
+  {
+    "_id": "18905cf1-cb4e-46db-b55d-432ff6192e24",
+    "tipo_documento": "CE",
+    "numero_documento": "6715173908",
+    "nombre_completo": "Marisol Zamudio",
+    "fecha_nacimiento": "1971-06-06",
+    "genero": "Otro",
+    "nucleo_familiar": [
+      {
+        "nombre": "Antonia Miguel Ordóñez Samaniego",
+        "relacion": "esposo",
+        "edad": 71
+      },
+      {
+        "nombre": "Jesús Ernesto Pulido",
+        "relacion": "hijo",
+        "edad": 5
+      }
+    ],
+    "estado_registro": "En proceso",
+    "fecha_registro": "2024-04-16",
+    "ultima_actualizacion": "2024-06-30"
+  },
+  {
+    "_id": "60b0ddc3-1e84-4297-9b2e-721e9ce8ae47",
+    "tipo_documento": "CE",
+    "numero_documento": "9578195910",
+    "nombre_completo": "Alexander García Guerrero",
+    "fecha_nacimiento": "1989-11-07",
+    "genero": "Femenino",
+    "nucleo_familiar": [
+      {
+        "nombre": "Paola Diana García Vergara",
+        "relacion": "hija",
+        "edad": 14
+      }
+    ],
+    "estado_registro": "En proceso",
+    "fecha_registro": "2024-08-26",
+    "ultima_actualizacion": "2025-01-17"
+  },
+  {
+    "_id": "0e1d5826-2f65-4889-a0ad-e061fcb3958a",
+    "tipo_documento": "CE",
+    "numero_documento": "6584308723",
+    "nombre_completo": "Salvador Elsa Negrete",
+    "fecha_nacimiento": "1976-04-19",
+    "genero": "Masculino",
+    "nucleo_familiar": [
+      {
+        "nombre": "Gilberto Verdugo",
+        "relacion": "esposo",
+        "edad": 49
+      },
+      {
+        "nombre": "Adiela Patricia Padilla Sepúlveda",
+        "relacion": "hija",
+        "edad": 6
+      },
+      {
+        "nombre": "Sr(a). Andrea Lara",
+        "relacion": "hija",
+        "edad": 1
+      }
+    ],
+    "estado_registro": "Rechazado",
+    "fecha_registro": "2024-11-17",
+    "ultima_actualizacion": "2025-01-22"
+  },
+  {
+    "_id": "71dcc310-fd2c-4575-8eea-71d093c9870a",
+    "tipo_documento": "CE",
+    "numero_documento": "0479119189",
+    "nombre_completo": "Luis Miguel Nieves",
+    "fecha_nacimiento": "1964-08-01",
+    "genero": "Masculino",
+    "nucleo_familiar": [
+      {
+        "nombre": "María López",
+        "relacion": "hijo",
+        "edad": 13
+      },
+      {
+        "nombre": "Alberto Vargas",
+        "relacion": "hija",
+        "edad": 11
+      }
+    ],
+    "estado_registro": "Pendiente de documentos",
+    "fecha_registro": "2024-05-18",
+    "ultima_actualizacion": "2025-03-30"
+  },
+  {
+    "_id": "2ee40556-bb84-42e7-8930-d7b79c8e74e8",
+    "tipo_documento": "CC",
+    "numero_documento": "6585836740",
+    "nombre_completo": "Angélica Fajardo Cardona",
+    "fecha_nacimiento": "2004-06-15",
+    "genero": "Femenino",
+    "nucleo_familiar": [
+      {
+        "nombre": "María Franco Martínez",
+        "relacion": "hija",
+        "edad": 6
+      },
+      {
+        "nombre": "Luis Miguel Úrsula Padilla",
+        "relacion": "hija",
+        "edad": 9
+      }
+    ],
+    "estado_registro": "Aceptado",
+    "fecha_registro": "2025-05-20",
+    "ultima_actualizacion": "2025-06-15"
+  },
+  {
+    "_id": "6642c167-a554-4295-8820-b71c40c9b6b5",
+    "tipo_documento": "CC",
+    "numero_documento": "0052015758",
+    "nombre_completo": "Citlali Henríquez",
+    "fecha_nacimiento": "1950-11-30",
+    "genero": "Femenino",
+    "nucleo_familiar": [
+      {
+        "nombre": "Adalberto Beltrán Vera",
+        "relacion": "esposa",
+        "edad": 46
+      },
+      {
+        "nombre": "Mtro. María José Abreu",
+        "relacion": "hija",
+        "edad": 1
+      },
+      {
+        "nombre": "Eloy Ramón Báez",
+        "relacion": "hijo",
+        "edad": 7
+      }
+    ],
+    "estado_registro": "Pendiente de documentos",
+    "fecha_registro": "2024-05-17",
+    "ultima_actualizacion": "2025-01-18"
+  },
+  {
+    "_id": "452dc1bd-56e0-4f14-8031-603e1b86c1b5",
+    "tipo_documento": "CE",
+    "numero_documento": "7975986924",
+    "nombre_completo": "Álvaro Enrique Toro Cuéllar",
+    "fecha_nacimiento": "1975-04-28",
+    "genero": "Masculino",
+    "nucleo_familiar": [
+      {
+        "nombre": "Agustín Manzanares Castellanos",
+        "relacion": "esposo",
+        "edad": 52
+      },
+      {
+        "nombre": "María Hurtado García",
+        "relacion": "hijo",
+        "edad": 6
+      },
+      {
+        "nombre": "Horacio Olga Hernandes Jimínez",
+        "relacion": "hija",
+        "edad": 8
+      }
+    ],
+    "estado_registro": "Rechazado",
+    "fecha_registro": "2025-11-01",
+    "ultima_actualizacion": "2025-11-03"
+  },
+  {
+    "_id": "37b764d9-4171-4941-bc0e-e3a0321fcc05",
+    "tipo_documento": "CC",
+    "numero_documento": "2918984169",
+    "nombre_completo": "Alma Cruz Saldivar",
+    "fecha_nacimiento": "1971-03-22",
+    "genero": "Masculino",
+    "nucleo_familiar": [
+      {
+        "nombre": "Nelcy Sánchez Trujillo",
+        "relacion": "esposo",
+        "edad": 28
+      },
+      {
+        "nombre": "Lina Carmen Molano Soto",
+        "relacion": "hijo",
+        "edad": 13
+      },
+      {
+        "nombre": "Sr(a). Claudia Alvarado",
+        "relacion": "hijo",
+        "edad": 17
+      }
+    ],
+    "estado_registro": "Aceptado",
+    "fecha_registro": "2025-10-24",
+    "ultima_actualizacion": "2025-11-12"
+  },
+  {
+    "_id": "984f2cbc-7e1d-4444-8b6c-255ad251450d",
+    "tipo_documento": "TI",
+    "numero_documento": "3564573205",
+    "nombre_completo": "Noemí Alfredo Ocampo Armendáriz",
+    "fecha_nacimiento": "1959-01-18",
+    "genero": "Femenino",
+    "nucleo_familiar": [
+      {
+        "nombre": "Ángel Hernandes Crespo",
+        "relacion": "esposo",
+        "edad": 19
+      },
+      {
+        "nombre": "Edna Inés Delgado Bedoya",
+        "relacion": "hijo",
+        "edad": 14
+      },
+      {
+        "nombre": "Manuel Páez",
+        "relacion": "hija",
+        "edad": 12
+      },
+      {
+        "nombre": "Uriel Emiliano Orta Alba",
+        "relacion": "hijo",
+        "edad": 15
+      }
+    ],
+    "estado_registro": "Aceptado",
+    "fecha_registro": "2024-11-22",
+    "ultima_actualizacion": "2024-12-24"
+  },
+  {
+    "_id": "af969896-43b2-4f1a-b9a1-d5fa8cb392c5",
+    "tipo_documento": "CE",
+    "numero_documento": "3893339781",
+    "nombre_completo": "Aida Araceli Leiva",
+    "fecha_nacimiento": "2006-09-16",
+    "genero": "Otro",
+    "nucleo_familiar": [
+      {
+        "nombre": "Benjamín Ramírez Díaz",
+        "relacion": "hija",
+        "edad": 7
+      },
+      {
+        "nombre": "Miriam Benito Gollum",
+        "relacion": "hijo",
+        "edad": 9
+      },
+      {
+        "nombre": "Vanessa Pérez",
+        "relacion": "hija",
+        "edad": 7
+      }
+    ],
+    "estado_registro": "Aceptado",
+    "fecha_registro": "2024-07-31",
+    "ultima_actualizacion": "2024-11-30"
+  },
+  {
+    "_id": "d1061514-3e51-491b-8991-31305fc517fb",
+    "tipo_documento": "TI",
+    "numero_documento": "3400024165",
+    "nombre_completo": "Edwin Zambrano Fajardo",
+    "fecha_nacimiento": "1994-08-14",
+    "genero": "Femenino",
+    "nucleo_familiar": [
+      {
+        "nombre": "Alberto Jairo Gómez",
+        "relacion": "esposo",
+        "edad": 67
+      },
+      {
+        "nombre": "José María Bernardo Nieves",
+        "relacion": "hija",
+        "edad": 13
+      },
+      {
+        "nombre": "Sebastián Sebastián Gómez",
+        "relacion": "hija",
+        "edad": 16
+      },
+      {
+        "nombre": "Yazmín Medina",
+        "relacion": "hijo",
+        "edad": 13
+      }
+    ],
+    "estado_registro": "Aceptado",
+    "fecha_registro": "2024-04-06",
+    "ultima_actualizacion": "2024-05-12"
+  },
+  {
+    "_id": "c34f669e-2ce1-4a74-8147-75f534235d3b",
+    "tipo_documento": "CC",
+    "numero_documento": "0465943421",
+    "nombre_completo": "Yolanda Ojeda",
+    "fecha_nacimiento": "1974-01-20",
+    "genero": "Otro",
+    "nucleo_familiar": [
+      {
+        "nombre": "Ing. María Teresa Quintana",
+        "relacion": "esposa",
+        "edad": 37
+      },
+      {
+        "nombre": "Daniel Andrés Rincón",
+        "relacion": "hija",
+        "edad": 7
+      },
+      {
+        "nombre": "Inés Martínez Jiménez",
+        "relacion": "hijo",
+        "edad": 13
+      }
+    ],
+    "estado_registro": "Pendiente de documentos",
+    "fecha_registro": "2025-09-12",
+    "ultima_actualizacion": "2025-09-18"
+  },
+  {
+    "_id": "d5aecdab-f505-4891-b130-40d1c8db8bf5",
+    "tipo_documento": "CC",
+    "numero_documento": "2510236561",
+    "nombre_completo": "Jorge Carlos Hernádez Sevilla",
+    "fecha_nacimiento": "1981-06-07",
+    "genero": "Femenino",
+    "nucleo_familiar": [
+      {
+        "nombre": "Marco Antonio Nadia Vigil",
+        "relacion": "esposo",
+        "edad": 25
+      },
+      {
+        "nombre": "Javier Giovanny Moreno Reyes",
+        "relacion": "hija",
+        "edad": 10
+      }
+    ],
+    "estado_registro": "Pendiente de documentos",
+    "fecha_registro": "2024-08-22",
+    "ultima_actualizacion": "2025-10-08"
+  },
+  {
+    "_id": "cd2ee394-0d76-4b72-85c3-190e5c9fa2ea",
+    "tipo_documento": "CC",
+    "numero_documento": "0815389228",
+    "nombre_completo": "Katerine Alejandra Ortiz",
+    "fecha_nacimiento": "1987-08-16",
+    "genero": "Femenino",
+    "nucleo_familiar": [
+      {
+        "nombre": "Elvia Preciado",
+        "relacion": "esposa",
+        "edad": 77
+      },
+      {
+        "nombre": "Zeferino Treviño",
+        "relacion": "hija",
+        "edad": 9
+      }
+    ],
+    "estado_registro": "Rechazado",
+    "fecha_registro": "2024-11-04",
+    "ultima_actualizacion": "2025-02-15"
+  },
+  {
+    "_id": "54ab843a-6319-4f19-a1b6-77e18c3de669",
+    "tipo_documento": "CE",
+    "numero_documento": "5377211877",
+    "nombre_completo": "Mtro. Paola Báez",
+    "fecha_nacimiento": "1945-05-11",
+    "genero": "Otro",
+    "nucleo_familiar": [
+      {
+        "nombre": "Ing. José Manuél Ceja",
+        "relacion": "hija",
+        "edad": 1
+      }
+    ],
+    "estado_registro": "Pendiente de documentos",
+    "fecha_registro": "2024-06-08",
+    "ultima_actualizacion": "2024-12-11"
+  },
+  {
+    "_id": "162316b3-8cd7-490f-8399-77d1a4bb8a80",
+    "tipo_documento": "CC",
+    "numero_documento": "9245811840",
+    "nombre_completo": "Nohora Molina",
+    "fecha_nacimiento": "1981-02-25",
+    "genero": "Masculino",
+    "nucleo_familiar": [
+      {
+        "nombre": "Andrés Alex Vera Ochoa",
+        "relacion": "hija",
+        "edad": 1
+      },
+      {
+        "nombre": "Mtro. Sandra Echeverría",
+        "relacion": "hija",
+        "edad": 5
+      }
+    ],
+    "estado_registro": "Pendiente de documentos",
+    "fecha_registro": "2024-04-06",
+    "ultima_actualizacion": "2024-10-14"
+  },
+  {
+    "_id": "3f8f937d-076d-4897-9188-2f71b799d895",
+    "tipo_documento": "CE",
+    "numero_documento": "7612062581",
+    "nombre_completo": "José Judith Arias",
+    "fecha_nacimiento": "1988-10-12",
+    "genero": "Masculino",
+    "nucleo_familiar": [],
+    "estado_registro": "En proceso",
+    "fecha_registro": "2025-05-04",
+    "ultima_actualizacion": "2025-05-22"
+  },
+  {
+    "_id": "280d4330-b92f-49b7-9be6-1e164e973070",
+    "tipo_documento": "CC",
+    "numero_documento": "4649808066",
+    "nombre_completo": "Sr(a). Rocío Gallegos",
+    "fecha_nacimiento": "1956-12-30",
+    "genero": "Masculino",
+    "nucleo_familiar": [],
+    "estado_registro": "Aceptado",
+    "fecha_registro": "2024-12-21",
+    "ultima_actualizacion": "2025-09-21"
+  },
+  {
+    "_id": "6cddccd4-046c-42a8-8e1b-059320160677",
+    "tipo_documento": "TI",
+    "numero_documento": "9251981905",
+    "nombre_completo": "Cecilia Lerma Zayas",
+    "fecha_nacimiento": "1979-04-18",
+    "genero": "Femenino",
+    "nucleo_familiar": [
+      {
+        "nombre": "Yolanda Pérez González",
+        "relacion": "esposo",
+        "edad": 62
+      },
+      {
+        "nombre": "Silvano Collazo",
+        "relacion": "hijo",
+        "edad": 16
+      },
+      {
+        "nombre": "María Lara",
+        "relacion": "hija",
+        "edad": 1
+      }
+    ],
+    "estado_registro": "Rechazado",
+    "fecha_registro": "2024-09-06",
+    "ultima_actualizacion": "2025-11-13"
+  },
+  {
+    "_id": "393171f6-ce3c-4ce9-a7a7-ca546b08cc6d",
+    "tipo_documento": "CC",
+    "numero_documento": "7728161509",
+    "nombre_completo": "Johanna Espinosa Ruiz",
+    "fecha_nacimiento": "1953-03-06",
+    "genero": "Femenino",
+    "nucleo_familiar": [
+      {
+        "nombre": "Ramón Mario Guerrero Muñoz",
+        "relacion": "esposo",
+        "edad": 29
+      }
+    ],
+    "estado_registro": "En proceso",
+    "fecha_registro": "2024-01-23",
+    "ultima_actualizacion": "2025-06-22"
+  },
+  {
+    "_id": "b81dc6d3-bcd1-40b2-a116-2f91bcad65db",
+    "tipo_documento": "CC",
+    "numero_documento": "9539212083",
+    "nombre_completo": "Ana Olga Torres",
+    "fecha_nacimiento": "1951-12-25",
+    "genero": "Masculino",
+    "nucleo_familiar": [
+      {
+        "nombre": "Ricardo Velandia",
+        "relacion": "esposo",
+        "edad": 65
+      },
+      {
+        "nombre": "Eugenia Buitrago Díaz",
+        "relacion": "hija",
+        "edad": 10
+      }
+    ],
+    "estado_registro": "Pendiente de documentos",
+    "fecha_registro": "2025-04-12",
+    "ultima_actualizacion": "2025-11-17"
+  },
+  {
+    "_id": "728cd4a7-334e-4c29-a405-5e1cabdacbbd",
+    "tipo_documento": "TI",
+    "numero_documento": "8762559827",
+    "nombre_completo": "Natalia Gil",
+    "fecha_nacimiento": "1973-01-30",
+    "genero": "Femenino",
+    "nucleo_familiar": [],
+    "estado_registro": "En proceso",
+    "fecha_registro": "2024-05-05",
+    "ultima_actualizacion": "2025-07-16"
+  },
+  {
+    "_id": "e57405cc-f692-4998-b6bf-85c92afe8f0f",
+    "tipo_documento": "CE",
+    "numero_documento": "9406230605",
+    "nombre_completo": "Lorena Valentín Godínez",
+    "fecha_nacimiento": "1966-08-18",
+    "genero": "Masculino",
+    "nucleo_familiar": [
+      {
+        "nombre": "Alexander Rafael Ortiz Caicedo",
+        "relacion": "esposa",
+        "edad": 54
+      },
+      {
+        "nombre": "Alba Carol Flórez",
+        "relacion": "hija",
+        "edad": 4
+      },
+      {
+        "nombre": "Rocío Francy Hoyos Santos",
+        "relacion": "hijo",
+        "edad": 12
+      }
+    ],
+    "estado_registro": "Pendiente de documentos",
+    "fecha_registro": "2025-05-26",
+    "ultima_actualizacion": "2025-11-20"
+  },
+  {
+    "_id": "929228d6-0014-4057-bf77-831b8efac077",
+    "tipo_documento": "TI",
+    "numero_documento": "4052935950",
+    "nombre_completo": "William John Gutiérrez Herrera",
+    "fecha_nacimiento": "1966-12-07",
+    "genero": "Otro",
+    "nucleo_familiar": [
+      {
+        "nombre": "Cynthia Omar Prado",
+        "relacion": "esposa",
+        "edad": 64
+      },
+      {
+        "nombre": "Diego Mendoza Gutiérrez",
+        "relacion": "hijo",
+        "edad": 13
+      },
+      {
+        "nombre": "Wilson Abraham Giraldo",
+        "relacion": "hija",
+        "edad": 7
+      },
+      {
+        "nombre": "Rosa Vargas Mondragón",
+        "relacion": "hijo",
+        "edad": 4
+      }
+    ],
+    "estado_registro": "En proceso",
+    "fecha_registro": "2025-08-22",
+    "ultima_actualizacion": "2025-11-17"
+  },
+  {
+    "_id": "eb4fe5d5-e145-46bf-9dd3-11fdc9f962f5",
+    "tipo_documento": "CC",
+    "numero_documento": "3718538916",
+    "nombre_completo": "Ángela Sandra Jiménez",
+    "fecha_nacimiento": "2006-04-03",
+    "genero": "Masculino",
+    "nucleo_familiar": [
+      {
+        "nombre": "Paola María Serna",
+        "relacion": "esposo",
+        "edad": 62
+      },
+      {
+        "nombre": "Stella Orjuela",
+        "relacion": "hijo",
+        "edad": 17
+      },
+      {
+        "nombre": "Ana Lady Sánchez Zuluaga",
+        "relacion": "hijo",
+        "edad": 2
+      },
+      {
+        "nombre": "Lilia Jos Pichardo Gollum",
+        "relacion": "hijo",
+        "edad": 14
+      }
+    ],
+    "estado_registro": "Aceptado",
+    "fecha_registro": "2024-10-22",
+    "ultima_actualizacion": "2025-02-18"
+  },
+  {
+    "_id": "6aca2235-951a-4532-bc74-56afaebda8c6",
+    "tipo_documento": "TI",
+    "numero_documento": "2484724988",
+    "nombre_completo": "Pedro Suárez Toro",
+    "fecha_nacimiento": "1986-04-05",
+    "genero": "Otro",
+    "nucleo_familiar": [],
+    "estado_registro": "Rechazado",
+    "fecha_registro": "2025-10-07",
+    "ultima_actualizacion": "2025-11-16"
+  },
+  {
+    "_id": "39bb0af5-6272-408b-a49f-996bcc230544",
+    "tipo_documento": "TI",
+    "numero_documento": "7935685884",
+    "nombre_completo": "María Eugenia Mónica Barrios",
+    "fecha_nacimiento": "1955-08-08",
+    "genero": "Masculino",
+    "nucleo_familiar": [
+      {
+        "nombre": "Dr. Rocío Esparza",
+        "relacion": "hijo",
+        "edad": 8
+      }
+    ],
+    "estado_registro": "Aceptado",
+    "fecha_registro": "2025-11-12",
+    "ultima_actualizacion": "2025-11-12"
+  },
+  {
+    "_id": "a4fc2091-dd41-4439-9f68-72bdbde52392",
+    "tipo_documento": "TI",
+    "numero_documento": "3840572464",
+    "nombre_completo": "Marcos Pilar Rivas",
+    "fecha_nacimiento": "1955-03-15",
+    "genero": "Masculino",
+    "nucleo_familiar": [
+      {
+        "nombre": "Sr(a). Martha Negrete",
+        "relacion": "hija",
+        "edad": 16
+      },
+      {
+        "nombre": "Armando Emilia Preciado Saldivar",
+        "relacion": "hija",
+        "edad": 2
+      }
+    ],
+    "estado_registro": "En proceso",
+    "fecha_registro": "2023-12-28",
+    "ultima_actualizacion": "2025-06-20"
+  },
+  {
+    "_id": "548403e6-09db-4872-9e23-caae85b84d4e",
+    "tipo_documento": "CC",
+    "numero_documento": "1179272645",
+    "nombre_completo": "María Juliana Cruz Zapata",
+    "fecha_nacimiento": "1949-11-28",
+    "genero": "Masculino",
+    "nucleo_familiar": [
+      {
+        "nombre": "Linda Zedillo Narváez",
+        "relacion": "hijo",
+        "edad": 14
+      },
+      {
+        "nombre": "Mtro. María Teresa Terrazas",
+        "relacion": "hijo",
+        "edad": 12
+      },
+      {
+        "nombre": "Kevin Gerardo Rodríguez Palacios",
+        "relacion": "hija",
+        "edad": 6
+      }
+    ],
+    "estado_registro": "Pendiente de documentos",
+    "fecha_registro": "2025-08-23",
+    "ultima_actualizacion": "2025-09-16"
+  },
+  {
+    "_id": "d75e5a51-ee7a-427a-8d54-6db3b3a9ec74",
+    "tipo_documento": "TI",
+    "numero_documento": "8219806224",
+    "nombre_completo": "Lina López Salas",
+    "fecha_nacimiento": "1993-02-18",
+    "genero": "Femenino",
+    "nucleo_familiar": [
+      {
+        "nombre": "Jaime Antonio Orjuela Duarte",
+        "relacion": "hija",
+        "edad": 3
+      },
+      {
+        "nombre": "Sr(a). Estefanía Santacruz",
+        "relacion": "hija",
+        "edad": 5
+      },
+      {
+        "nombre": "Hernán Fernández Castellanos",
+        "relacion": "hija",
+        "edad": 14
+      }
+    ],
+    "estado_registro": "Aceptado",
+    "fecha_registro": "2024-12-06",
+    "ultima_actualizacion": "2025-05-09"
+  },
+  {
+    "_id": "4fa9e6ee-cba2-4482-9a40-0002ef5a0f22",
+    "tipo_documento": "CE",
+    "numero_documento": "5077774710",
+    "nombre_completo": "Isabela Ramón Alvarez Ceja",
+    "fecha_nacimiento": "1945-06-27",
+    "genero": "Otro",
+    "nucleo_familiar": [
+      {
+        "nombre": "Maximiliano Villegas Espinal",
+        "relacion": "hija",
+        "edad": 1
+      }
+    ],
+    "estado_registro": "Pendiente de documentos",
+    "fecha_registro": "2024-11-01",
+    "ultima_actualizacion": "2024-11-06"
+  },
+  {
+    "_id": "c1c7d221-c40f-4efb-bc56-0cf777baa9b6",
+    "tipo_documento": "CE",
+    "numero_documento": "7429297565",
+    "nombre_completo": "Juan Luis Ochoa Castro",
+    "fecha_nacimiento": "1966-11-04",
+    "genero": "Otro",
+    "nucleo_familiar": [
+      {
+        "nombre": "Enrique Felipe Murcia Moreno",
+        "relacion": "esposo",
+        "edad": 34
+      },
+      {
+        "nombre": "Ing. Claudia Vergara",
+        "relacion": "hijo",
+        "edad": 12
+      },
+      {
+        "nombre": "Luis Miguel Maya Garibay",
+        "relacion": "hija",
+        "edad": 10
+      },
+      {
+        "nombre": "Esther Sanabria",
+        "relacion": "hija",
+        "edad": 15
+      }
+    ],
+    "estado_registro": "Pendiente de documentos",
+    "fecha_registro": "2025-03-04",
+    "ultima_actualizacion": "2025-08-03"
+  },
+  {
+    "_id": "6b1be62a-9ab8-413e-8e24-4c4d3efac219",
+    "tipo_documento": "CC",
+    "numero_documento": "9818901837",
+    "nombre_completo": "Jaime Pizarro",
+    "fecha_nacimiento": "1972-05-07",
+    "genero": "Femenino",
+    "nucleo_familiar": [
+      {
+        "nombre": "Paola Cabrera",
+        "relacion": "hija",
+        "edad": 5
+      },
+      {
+        "nombre": "Emilia Vallejo Alonzo",
+        "relacion": "hijo",
+        "edad": 16
+      },
+      {
+        "nombre": "María Jiménez",
+        "relacion": "hijo",
+        "edad": 11
+      }
+    ],
+    "estado_registro": "En proceso",
+    "fecha_registro": "2024-02-06",
+    "ultima_actualizacion": "2024-02-20"
+  },
+  {
+    "_id": "1e21dde5-38e9-4bc6-b546-bd5da426c8f1",
+    "tipo_documento": "CC",
+    "numero_documento": "3754490478",
+    "nombre_completo": "Lucía Cárdenas Martínez",
+    "fecha_nacimiento": "1964-01-19",
+    "genero": "Femenino",
+    "nucleo_familiar": [
+      {
+        "nombre": "Lucy Duque Trujillo",
+        "relacion": "esposo",
+        "edad": 70
+      },
+      {
+        "nombre": "Dr. Ernesto Urrutia",
+        "relacion": "hijo",
+        "edad": 16
+      },
+      {
+        "nombre": "Enrique Modesto Rivas",
+        "relacion": "hija",
+        "edad": 3
+      }
+    ],
+    "estado_registro": "Pendiente de documentos",
+    "fecha_registro": "2025-06-11",
+    "ultima_actualizacion": "2025-08-01"
+  },
+  {
+    "_id": "8460c341-e2b3-4e16-bed8-ced01883eecd",
+    "tipo_documento": "CC",
+    "numero_documento": "0736426572",
+    "nombre_completo": "Cristal Andrea Correa Segura",
+    "fecha_nacimiento": "1968-06-25",
+    "genero": "Otro",
+    "nucleo_familiar": [],
+    "estado_registro": "En proceso",
+    "fecha_registro": "2025-07-24",
+    "ultima_actualizacion": "2025-09-30"
+  },
+  {
+    "_id": "d9e2fa9e-b43d-4754-8dc1-03c3f592f9d1",
+    "tipo_documento": "TI",
+    "numero_documento": "8283250116",
+    "nombre_completo": "Georgina Juan Carlos Salcido",
+    "fecha_nacimiento": "1967-12-05",
+    "genero": "Masculino",
+    "nucleo_familiar": [
+      {
+        "nombre": "Alma Santiago Pantoja Montes",
+        "relacion": "esposo",
+        "edad": 19
+      },
+      {
+        "nombre": "Ing. Gilberto Guevara",
+        "relacion": "hijo",
+        "edad": 6
+      },
+      {
+        "nombre": "Natalia Escamilla Leyva",
+        "relacion": "hija",
+        "edad": 8
+      }
+    ],
+    "estado_registro": "En proceso",
+    "fecha_registro": "2024-05-15",
+    "ultima_actualizacion": "2025-05-28"
+  },
+  {
+    "_id": "32b247bf-52c1-4126-9db8-052b45bfe81a",
+    "tipo_documento": "CE",
+    "numero_documento": "1817019999",
+    "nombre_completo": "Rodolfo Germán de la Torre Lebrón",
+    "fecha_nacimiento": "1954-03-24",
+    "genero": "Otro",
+    "nucleo_familiar": [
+      {
+        "nombre": "María Eugenia Tello",
+        "relacion": "esposo",
+        "edad": 45
+      },
+      {
+        "nombre": "Andrea Elsa Osorio",
+        "relacion": "hija",
+        "edad": 6
+      },
+      {
+        "nombre": "Ilse Daniela Luevano",
+        "relacion": "hijo",
+        "edad": 2
+      },
+      {
+        "nombre": "Sr(a). Alberto Bahena",
+        "relacion": "hija",
+        "edad": 6
+      }
+    ],
+    "estado_registro": "Aceptado",
+    "fecha_registro": "2023-12-30",
+    "ultima_actualizacion": "2025-01-22"
+  },
+  {
+    "_id": "2a703376-88d4-4fa1-a277-9e16393260ff",
+    "tipo_documento": "TI",
+    "numero_documento": "3535390242",
+    "nombre_completo": "Dr. Elias Carmona",
+    "fecha_nacimiento": "1973-09-16",
+    "genero": "Otro",
+    "nucleo_familiar": [
+      {
+        "nombre": "Yulieth Margarita Mora",
+        "relacion": "esposo",
+        "edad": 37
+      },
+      {
+        "nombre": "Lucero Medina",
+        "relacion": "hijo",
+        "edad": 1
+      },
+      {
+        "nombre": "Abelardo Martín Maestas",
+        "relacion": "hijo",
+        "edad": 16
+      },
+      {
+        "nombre": "Benjamín Mónica Rocha Saldivar",
+        "relacion": "hijo",
+        "edad": 14
+      }
+    ],
+    "estado_registro": "En proceso",
+    "fecha_registro": "2025-08-17",
+    "ultima_actualizacion": "2025-10-23"
+  },
+  {
+    "_id": "660b40fc-50ae-4ded-b2da-bc530caf6a6d",
+    "tipo_documento": "TI",
+    "numero_documento": "1494108389",
+    "nombre_completo": "César Dulce Briones",
+    "fecha_nacimiento": "1979-02-12",
+    "genero": "Masculino",
+    "nucleo_familiar": [
+      {
+        "nombre": "María Marisol Aponte",
+        "relacion": "esposa",
+        "edad": 33
+      },
+      {
+        "nombre": "Luisa Rojas",
+        "relacion": "hijo",
+        "edad": 10
+      },
+      {
+        "nombre": "Amelia Mesa Vázquez",
+        "relacion": "hijo",
+        "edad": 2
+      },
+      {
+        "nombre": "Elena Tatiana Torres Mesa",
+        "relacion": "hija",
+        "edad": 2
+      }
+    ],
+    "estado_registro": "Pendiente de documentos",
+    "fecha_registro": "2024-12-02",
+    "ultima_actualizacion": "2025-07-04"
+  },
+  {
+    "_id": "5bd62fe6-c9cf-499c-aa47-66aaf1fdcec2",
+    "tipo_documento": "TI",
+    "numero_documento": "7514692577",
+    "nombre_completo": "William Jonathan Alvarado",
+    "fecha_nacimiento": "1987-04-16",
+    "genero": "Otro",
+    "nucleo_familiar": [
+      {
+        "nombre": "Francisca Urbina",
+        "relacion": "hijo",
+        "edad": 12
+      },
+      {
+        "nombre": "Luis José López Galeano",
+        "relacion": "hijo",
+        "edad": 4
+      },
+      {
+        "nombre": "Inés Vanegas",
+        "relacion": "hijo",
+        "edad": 5
+      }
+    ],
+    "estado_registro": "Aceptado",
+    "fecha_registro": "2024-12-06",
+    "ultima_actualizacion": "2025-06-20"
+  },
+  {
+    "_id": "c7c295c2-bec4-4b34-830a-f7868d30cfcb",
+    "tipo_documento": "TI",
+    "numero_documento": "6204648180",
+    "nombre_completo": "Noelia Carla Rocha Varela",
+    "fecha_nacimiento": "1997-05-29",
+    "genero": "Femenino",
+    "nucleo_familiar": [
+      {
+        "nombre": "Julieth Vargas Trujillo",
+        "relacion": "hija",
+        "edad": 12
+      },
+      {
+        "nombre": "Wilson Molina Obando",
+        "relacion": "hija",
+        "edad": 4
+      },
+      {
+        "nombre": "Frida María Luisa Amaya",
+        "relacion": "hija",
+        "edad": 13
+      }
+    ],
+    "estado_registro": "Aceptado",
+    "fecha_registro": "2023-12-25",
+    "ultima_actualizacion": "2024-07-03"
+  },
+  {
+    "_id": "6065b834-5895-4381-b3c1-6634c93b33fc",
+    "tipo_documento": "CC",
+    "numero_documento": "5039437434",
+    "nombre_completo": "Alexander Peña",
+    "fecha_nacimiento": "1971-09-13",
+    "genero": "Femenino",
+    "nucleo_familiar": [
+      {
+        "nombre": "Dr. Martín Tapia",
+        "relacion": "hija",
+        "edad": 4
+      },
+      {
+        "nombre": "Mtro. Emilia Esparza",
+        "relacion": "hijo",
+        "edad": 17
+      },
+      {
+        "nombre": "Franklin Benavides",
+        "relacion": "hija",
+        "edad": 12
+      }
+    ],
+    "estado_registro": "Rechazado",
+    "fecha_registro": "2025-01-22",
+    "ultima_actualizacion": "2025-11-06"
+  },
+  {
+    "_id": "2f060438-20ac-4da2-b149-04ba15706a23",
+    "tipo_documento": "TI",
+    "numero_documento": "1381716261",
+    "nombre_completo": "Luis Muñoz Ramírez",
+    "fecha_nacimiento": "1964-08-01",
+    "genero": "Masculino",
+    "nucleo_familiar": [],
+    "estado_registro": "Aceptado",
+    "fecha_registro": "2024-10-13",
+    "ultima_actualizacion": "2025-08-13"
+  },
+  {
+    "_id": "d59e8cee-d274-42bd-9339-39e9fddb32b0",
+    "tipo_documento": "TI",
+    "numero_documento": "0448105706",
+    "nombre_completo": "Magdalena Virginia Baca",
+    "fecha_nacimiento": "1946-06-20",
+    "genero": "Otro",
+    "nucleo_familiar": [
+      {
+        "nombre": "Elkin Joaquín Rincón",
+        "relacion": "esposa",
+        "edad": 39
+      }
+    ],
+    "estado_registro": "En proceso",
+    "fecha_registro": "2024-02-04",
+    "ultima_actualizacion": "2024-02-06"
+  },
+  {
+    "_id": "cf72e221-3a4c-4564-9dc2-6c419c0c69d7",
+    "tipo_documento": "CC",
+    "numero_documento": "4091412553",
+    "nombre_completo": "Carlos Caro Flórez",
+    "fecha_nacimiento": "1955-10-30",
+    "genero": "Masculino",
+    "nucleo_familiar": [
+      {
+        "nombre": "Víctor García",
+        "relacion": "esposo",
+        "edad": 36
+      },
+      {
+        "nombre": "Guillermina José María Sepúlveda Piña",
+        "relacion": "hijo",
+        "edad": 3
+      },
+      {
+        "nombre": "Paola Paz",
+        "relacion": "hijo",
+        "edad": 13
+      },
+      {
+        "nombre": "Manuela Gloria Córdoba",
+        "relacion": "hijo",
+        "edad": 13
+      }
+    ],
+    "estado_registro": "En proceso",
+    "fecha_registro": "2024-02-27",
+    "ultima_actualizacion": "2024-12-20"
+  },
+  {
+    "_id": "44183ecf-738e-44bd-bc4b-3e9fb7ecf439",
+    "tipo_documento": "CC",
+    "numero_documento": "5908105612",
+    "nombre_completo": "Andrea Victoria Ramírez",
+    "fecha_nacimiento": "1980-05-15",
+    "genero": "Otro",
+    "nucleo_familiar": [
+      {
+        "nombre": "Judith Aldonza Carbajal",
+        "relacion": "hija",
+        "edad": 7
+      }
+    ],
+    "estado_registro": "Pendiente de documentos",
+    "fecha_registro": "2023-12-28",
+    "ultima_actualizacion": "2025-10-15"
+  },
+  {
+    "_id": "3970f5d0-98d5-4a0a-89a0-62a471270e69",
+    "tipo_documento": "TI",
+    "numero_documento": "2456390491",
+    "nombre_completo": "Leonor Abigail Olivárez",
+    "fecha_nacimiento": "2002-07-25",
+    "genero": "Masculino",
+    "nucleo_familiar": [
+      {
+        "nombre": "José Estrada Ramos",
+        "relacion": "hijo",
+        "edad": 16
+      },
+      {
+        "nombre": "Paulina José Luis Luevano",
+        "relacion": "hija",
+        "edad": 6
+      }
+    ],
+    "estado_registro": "En proceso",
+    "fecha_registro": "2024-12-09",
+    "ultima_actualizacion": "2025-07-19"
+  },
+  {
+    "_id": "82b36d0f-7ccf-4d35-baa2-7308d96acab4",
+    "tipo_documento": "CC",
+    "numero_documento": "9900052482",
+    "nombre_completo": "Micaela Virginia Téllez",
+    "fecha_nacimiento": "1945-05-29",
+    "genero": "Masculino",
+    "nucleo_familiar": [
+      {
+        "nombre": "Sr(a). Nayeli Huerta",
+        "relacion": "esposa",
+        "edad": 77
+      },
+      {
+        "nombre": "Jair Navarro Mendoza",
+        "relacion": "hijo",
+        "edad": 2
+      },
+      {
+        "nombre": "Yohana Liliana Amaya",
+        "relacion": "hijo",
+        "edad": 12
+      },
+      {
+        "nombre": "Leidy Aurora Durán",
+        "relacion": "hija",
+        "edad": 6
+      }
+    ],
+    "estado_registro": "Rechazado",
+    "fecha_registro": "2024-12-18",
+    "ultima_actualizacion": "2024-12-30"
+  },
+  {
+    "_id": "90cadb94-bdb9-4279-a8a2-16e4cca0601b",
+    "tipo_documento": "CC",
+    "numero_documento": "2742590357",
+    "nombre_completo": "Abril Vargas",
+    "fecha_nacimiento": "1990-10-29",
+    "genero": "Masculino",
+    "nucleo_familiar": [
+      {
+        "nombre": "Lic. Rubén Barrios",
+        "relacion": "esposo",
+        "edad": 72
+      }
+    ],
+    "estado_registro": "Rechazado",
+    "fecha_registro": "2025-05-06",
+    "ultima_actualizacion": "2025-09-11"
+  },
+  {
+    "_id": "7945c336-2cad-4d9f-963e-6ab9a9c5833f",
+    "tipo_documento": "CE",
+    "numero_documento": "0679154008",
+    "nombre_completo": "Lina Rojas",
+    "fecha_nacimiento": "1985-02-02",
+    "genero": "Otro",
+    "nucleo_familiar": [
+      {
+        "nombre": "John Rueda Díaz",
+        "relacion": "esposa",
+        "edad": 56
+      },
+      {
+        "nombre": "Linda López",
+        "relacion": "hijo",
+        "edad": 12
+      },
+      {
+        "nombre": "Yineth Mercedes Mosquera Peña",
+        "relacion": "hija",
+        "edad": 14
+      },
+      {
+        "nombre": "Lucía Garzón",
+        "relacion": "hijo",
+        "edad": 14
+      }
+    ],
+    "estado_registro": "Rechazado",
+    "fecha_registro": "2024-03-10",
+    "ultima_actualizacion": "2025-08-22"
+  },
+  {
+    "_id": "20ef39f3-14d8-4484-8240-e28646f764cf",
+    "tipo_documento": "CC",
+    "numero_documento": "0547137028",
+    "nombre_completo": "Emilia Melgar",
+    "fecha_nacimiento": "1970-08-14",
+    "genero": "Otro",
+    "nucleo_familiar": [
+      {
+        "nombre": "Agustín Darío Cortés Camarillo",
+        "relacion": "esposo",
+        "edad": 62
+      },
+      {
+        "nombre": "Daniela Berta Terán",
+        "relacion": "hijo",
+        "edad": 11
+      },
+      {
+        "nombre": "Alberto Guillen",
+        "relacion": "hijo",
+        "edad": 8
+      }
+    ],
+    "estado_registro": "Rechazado",
+    "fecha_registro": "2025-03-10",
+    "ultima_actualizacion": "2025-06-29"
+  },
+  {
+    "_id": "f63fe256-bc39-44c3-a157-0c903b04b2a1",
+    "tipo_documento": "TI",
+    "numero_documento": "0116816041",
+    "nombre_completo": "Miguel Ángel Natalia Feliciano Prado",
+    "fecha_nacimiento": "1978-06-05",
+    "genero": "Otro",
+    "nucleo_familiar": [
+      {
+        "nombre": "Olga Zayas",
+        "relacion": "hija",
+        "edad": 12
+      },
+      {
+        "nombre": "Alfonso Arley Miranda Gaviria",
+        "relacion": "hijo",
+        "edad": 15
+      },
+      {
+        "nombre": "Bernabé Alfonso Navarro Miramontes",
+        "relacion": "hijo",
+        "edad": 12
+      }
+    ],
+    "estado_registro": "Pendiente de documentos",
+    "fecha_registro": "2024-10-05",
+    "ultima_actualizacion": "2025-04-11"
+  },
+  {
+    "_id": "6dfdb009-5553-49a6-8885-5141308471b1",
+    "tipo_documento": "TI",
+    "numero_documento": "8553296122",
+    "nombre_completo": "Adalberto Heredia",
+    "fecha_nacimiento": "1947-04-23",
+    "genero": "Femenino",
+    "nucleo_familiar": [],
+    "estado_registro": "Rechazado",
+    "fecha_registro": "2024-05-20",
+    "ultima_actualizacion": "2025-01-11"
+  },
+  {
+    "_id": "0a094567-ab31-4ebf-85c0-a7747eb735e9",
+    "tipo_documento": "CC",
+    "numero_documento": "5882384261",
+    "nombre_completo": "Martha Gladys Parra",
+    "fecha_nacimiento": "1970-01-23",
+    "genero": "Femenino",
+    "nucleo_familiar": [
+      {
+        "nombre": "Sr(a). Débora Barragán",
+        "relacion": "esposa",
+        "edad": 74
+      },
+      {
+        "nombre": "Evelio Flavio Arevalo",
+        "relacion": "hija",
+        "edad": 8
+      }
+    ],
+    "estado_registro": "Aceptado",
+    "fecha_registro": "2025-10-11",
+    "ultima_actualizacion": "2025-10-27"
+  },
+  {
+    "_id": "8fbee45a-43ed-4ac8-90dc-0f4295c0c080",
+    "tipo_documento": "CC",
+    "numero_documento": "6302495189",
+    "nombre_completo": "Cristina Molina Castro",
+    "fecha_nacimiento": "1983-01-16",
+    "genero": "Masculino",
+    "nucleo_familiar": [
+      {
+        "nombre": "Rosario Evelio Mora Balderas",
+        "relacion": "esposo",
+        "edad": 73
+      }
+    ],
+    "estado_registro": "En proceso",
+    "fecha_registro": "2025-08-21",
+    "ultima_actualizacion": "2025-09-24"
+  },
+  {
+    "_id": "a663dd8f-a53a-4188-861f-a91de52bf83b",
+    "tipo_documento": "CE",
+    "numero_documento": "2407398410",
+    "nombre_completo": "Miriam Hugo Macías",
+    "fecha_nacimiento": "1964-09-09",
+    "genero": "Otro",
+    "nucleo_familiar": [
+      {
+        "nombre": "Ana Sandra Rivera",
+        "relacion": "hijo",
+        "edad": 6
+      },
+      {
+        "nombre": "Alberto Gutiérrez",
+        "relacion": "hija",
+        "edad": 14
+      },
+      {
+        "nombre": "Germán Jaimes",
+        "relacion": "hija",
+        "edad": 8
+      }
+    ],
+    "estado_registro": "En proceso",
+    "fecha_registro": "2025-05-15",
+    "ultima_actualizacion": "2025-05-29"
+  },
+  {
+    "_id": "09c21549-ed2d-4a37-bcc1-1427e60c645a",
+    "tipo_documento": "CE",
+    "numero_documento": "4588289545",
+    "nombre_completo": "Nayeli Cervántez",
+    "fecha_nacimiento": "1949-05-13",
+    "genero": "Femenino",
+    "nucleo_familiar": [
+      {
+        "nombre": "Lilia Carolina Romero León",
+        "relacion": "hija",
+        "edad": 8
+      },
+      {
+        "nombre": "Ing. Nicolás Chávez",
+        "relacion": "hija",
+        "edad": 12
+      },
+      {
+        "nombre": "María Cristina Paz",
+        "relacion": "hija",
+        "edad": 6
+      }
+    ],
+    "estado_registro": "Pendiente de documentos",
+    "fecha_registro": "2025-08-07",
+    "ultima_actualizacion": "2025-09-03"
+  },
+  {
+    "_id": "cc1a015b-dabe-417f-b826-e3e9ddcb8b95",
+    "tipo_documento": "CE",
+    "numero_documento": "0836551922",
+    "nombre_completo": "Nelly Evelio Cintrón Sierra",
+    "fecha_nacimiento": "1958-05-02",
+    "genero": "Masculino",
+    "nucleo_familiar": [],
+    "estado_registro": "Pendiente de documentos",
+    "fecha_registro": "2025-09-03",
+    "ultima_actualizacion": "2025-10-13"
+  },
+  {
+    "_id": "ca9f417a-bfb7-47b1-b98f-50b508aeba81",
+    "tipo_documento": "TI",
+    "numero_documento": "5519449571",
+    "nombre_completo": "Julieth Sara Bustos Obando",
+    "fecha_nacimiento": "1949-11-06",
+    "genero": "Femenino",
+    "nucleo_familiar": [
+      {
+        "nombre": "Sandra Esther Martínez Perea",
+        "relacion": "hija",
+        "edad": 14
+      }
+    ],
+    "estado_registro": "Pendiente de documentos",
+    "fecha_registro": "2024-06-19",
+    "ultima_actualizacion": "2024-12-31"
+  },
+  {
+    "_id": "887c7294-48f7-4874-af56-effa24aea6c5",
+    "tipo_documento": "CE",
+    "numero_documento": "1159107546",
+    "nombre_completo": "Jeison Carrillo",
+    "fecha_nacimiento": "1950-04-09",
+    "genero": "Femenino",
+    "nucleo_familiar": [],
+    "estado_registro": "Pendiente de documentos",
+    "fecha_registro": "2025-07-26",
+    "ultima_actualizacion": "2025-08-10"
+  },
+  {
+    "_id": "a840b7c9-efad-4f4b-b60e-0e6a1cfeb90b",
+    "tipo_documento": "CC",
+    "numero_documento": "1952292262",
+    "nombre_completo": "Javier Villanueva Urrutia",
+    "fecha_nacimiento": "1990-12-07",
+    "genero": "Masculino",
+    "nucleo_familiar": [
+      {
+        "nombre": "Jos Felipe Robles",
+        "relacion": "hijo",
+        "edad": 13
+      }
+    ],
+    "estado_registro": "Rechazado",
+    "fecha_registro": "2024-08-16",
+    "ultima_actualizacion": "2025-01-07"
+  },
+  {
+    "_id": "b8572c88-e331-4d7d-ab03-2bdd3d7df3d0",
+    "tipo_documento": "CE",
+    "numero_documento": "6909900572",
+    "nombre_completo": "Ana Mitzy Garay Barrera",
+    "fecha_nacimiento": "1997-07-20",
+    "genero": "Femenino",
+    "nucleo_familiar": [
+      {
+        "nombre": "Marcela Rodríguez Orjuela",
+        "relacion": "esposa",
+        "edad": 78
+      },
+      {
+        "nombre": "William Alberto Pacheco Peña",
+        "relacion": "hija",
+        "edad": 7
+      },
+      {
+        "nombre": "Yuridia Emilio Verdugo",
+        "relacion": "hijo",
+        "edad": 14
+      }
+    ],
+    "estado_registro": "Pendiente de documentos",
+    "fecha_registro": "2025-03-30",
+    "ultima_actualizacion": "2025-07-28"
+  },
+  {
+    "_id": "812a7699-ef86-4ee4-ad04-2100173cb4d1",
+    "tipo_documento": "CC",
+    "numero_documento": "2077549915",
+    "nombre_completo": "Augusto Rivera",
+    "fecha_nacimiento": "1954-11-21",
+    "genero": "Masculino",
+    "nucleo_familiar": [],
+    "estado_registro": "Aceptado",
+    "fecha_registro": "2024-04-27",
+    "ultima_actualizacion": "2025-06-14"
+  },
+  {
+    "_id": "54bc0e71-e8a3-4025-a284-56bc2bc7eb35",
+    "tipo_documento": "TI",
+    "numero_documento": "8836018609",
+    "nombre_completo": "Mtro. Trinidad Ureña",
+    "fecha_nacimiento": "1961-02-25",
+    "genero": "Femenino",
+    "nucleo_familiar": [
+      {
+        "nombre": "René Alfonso Zaragoza",
+        "relacion": "esposa",
+        "edad": 32
+      },
+      {
+        "nombre": "David Muro Cortés",
+        "relacion": "hijo",
+        "edad": 12
+      }
+    ],
+    "estado_registro": "Pendiente de documentos",
+    "fecha_registro": "2024-01-09",
+    "ultima_actualizacion": "2025-10-16"
+  },
+  {
+    "_id": "b0af7715-43a8-484c-b6f7-de488d5860f6",
+    "tipo_documento": "TI",
+    "numero_documento": "8625842430",
+    "nombre_completo": "Jhon Pérez Gil",
+    "fecha_nacimiento": "1988-05-11",
+    "genero": "Otro",
+    "nucleo_familiar": [
+      {
+        "nombre": "Amanda Torres Barrientos",
+        "relacion": "hija",
+        "edad": 5
+      },
+      {
+        "nombre": "Alonso Aurelio Abrego",
+        "relacion": "hija",
+        "edad": 11
+      }
+    ],
+    "estado_registro": "En proceso",
+    "fecha_registro": "2024-06-08",
+    "ultima_actualizacion": "2024-06-18"
+  },
+  {
+    "_id": "8b347530-21d2-48b3-83d4-529a605e0a72",
+    "tipo_documento": "CC",
+    "numero_documento": "0806989939",
+    "nombre_completo": "Alfredo Diego Rodríguez",
+    "fecha_nacimiento": "1984-06-12",
+    "genero": "Masculino",
+    "nucleo_familiar": [
+      {
+        "nombre": "Esteban Rangel",
+        "relacion": "esposa",
+        "edad": 20
+      },
+      {
+        "nombre": "Ing. Alejandro Santacruz",
+        "relacion": "hija",
+        "edad": 4
+      },
+      {
+        "nombre": "Socorro Rodríguez Valle",
+        "relacion": "hija",
+        "edad": 12
+      },
+      {
+        "nombre": "Espartaco Alvaro Alemán",
+        "relacion": "hija",
+        "edad": 14
+      }
+    ],
+    "estado_registro": "En proceso",
+    "fecha_registro": "2024-12-18",
+    "ultima_actualizacion": "2025-03-23"
+  },
+  {
+    "_id": "cdb73929-0888-43c6-a7f7-efd081e85639",
+    "tipo_documento": "CE",
+    "numero_documento": "5688927405",
+    "nombre_completo": "Alberto Sessa Villaseñor",
+    "fecha_nacimiento": "1952-06-09",
+    "genero": "Femenino",
+    "nucleo_familiar": [
+      {
+        "nombre": "Rodrigo Alba Almonte",
+        "relacion": "esposa",
+        "edad": 73
+      }
+    ],
+    "estado_registro": "En proceso",
+    "fecha_registro": "2024-12-04",
+    "ultima_actualizacion": "2025-08-22"
+  },
+  {
+    "_id": "15f3f140-b2ad-405b-a4b4-a08ea6a0371b",
+    "tipo_documento": "CE",
+    "numero_documento": "6061741541",
+    "nombre_completo": "Nelly Ana Vargas",
+    "fecha_nacimiento": "1983-11-11",
+    "genero": "Otro",
+    "nucleo_familiar": [
+      {
+        "nombre": "Óliver Celia Muro",
+        "relacion": "esposo",
+        "edad": 34
+      }
+    ],
+    "estado_registro": "En proceso",
+    "fecha_registro": "2024-04-05",
+    "ultima_actualizacion": "2025-04-25"
+  },
+  {
+    "_id": "63c0f338-f727-4a7b-9f2c-39af1e8f21cb",
+    "tipo_documento": "CC",
+    "numero_documento": "5837641219",
+    "nombre_completo": "Luis Clara Cabán Colón",
+    "fecha_nacimiento": "1976-06-22",
+    "genero": "Masculino",
+    "nucleo_familiar": [
+      {
+        "nombre": "Daniel Reséndez",
+        "relacion": "hija",
+        "edad": 16
+      },
+      {
+        "nombre": "Steven David Ruiz",
+        "relacion": "hija",
+        "edad": 12
+      },
+      {
+        "nombre": "Kevin Gómez Ríos",
+        "relacion": "hija",
+        "edad": 16
+      }
+    ],
+    "estado_registro": "Aceptado",
+    "fecha_registro": "2025-01-12",
+    "ultima_actualizacion": "2025-06-30"
+  },
+  {
+    "_id": "001b482e-a16a-40cb-9e36-831aaa0f0a5f",
+    "tipo_documento": "CC",
+    "numero_documento": "9373701840",
+    "nombre_completo": "María Figueroa",
+    "fecha_nacimiento": "2002-08-23",
+    "genero": "Otro",
+    "nucleo_familiar": [
+      {
+        "nombre": "Javier Freddy Carrillo Mendoza",
+        "relacion": "hija",
+        "edad": 12
+      },
+      {
+        "nombre": "Alejandro Julián Ospina",
+        "relacion": "hija",
+        "edad": 10
+      },
+      {
+        "nombre": "Carmen Quiroz de la Torre",
+        "relacion": "hija",
+        "edad": 17
+      }
+    ],
+    "estado_registro": "En proceso",
+    "fecha_registro": "2025-03-05",
+    "ultima_actualizacion": "2025-08-23"
+  },
+  {
+    "_id": "3a9a183c-7be0-4922-a692-7266ae77c933",
+    "tipo_documento": "CE",
+    "numero_documento": "2668953434",
+    "nombre_completo": "Alba Cecilia Ríos",
+    "fecha_nacimiento": "1997-05-15",
+    "genero": "Femenino",
+    "nucleo_familiar": [
+      {
+        "nombre": "Sr(a). Yolanda Saldivar",
+        "relacion": "hija",
+        "edad": 2
+      },
+      {
+        "nombre": "Sr(a). Timoteo Castellanos",
+        "relacion": "hijo",
+        "edad": 9
+      },
+      {
+        "nombre": "Gustavo Rosalia Carmona Ponce",
+        "relacion": "hijo",
+        "edad": 16
+      }
+    ],
+    "estado_registro": "Rechazado",
+    "fecha_registro": "2025-03-14",
+    "ultima_actualizacion": "2025-06-05"
+  },
+  {
+    "_id": "441fd4bd-3762-4e1b-8575-9ec3bf799f54",
+    "tipo_documento": "TI",
+    "numero_documento": "0899389407",
+    "nombre_completo": "Dr. José Emilio Ulibarri",
+    "fecha_nacimiento": "1974-04-24",
+    "genero": "Masculino",
+    "nucleo_familiar": [
+      {
+        "nombre": "Ilse Fabiola Apodaca Zapata",
+        "relacion": "esposa",
+        "edad": 29
+      },
+      {
+        "nombre": "Johana Martha Lozano",
+        "relacion": "hijo",
+        "edad": 12
+      },
+      {
+        "nombre": "Octavio Paulina Bañuelos Alarcón",
+        "relacion": "hijo",
+        "edad": 14
+      },
+      {
+        "nombre": "Viviana Alexandra Vega",
+        "relacion": "hija",
+        "edad": 7
+      }
+    ],
+    "estado_registro": "Rechazado",
+    "fecha_registro": "2024-10-14",
+    "ultima_actualizacion": "2024-12-29"
+  },
+  {
+    "_id": "82291104-9308-491b-af5a-fe99b378fcad",
+    "tipo_documento": "CC",
+    "numero_documento": "8546029640",
+    "nombre_completo": "Trinidad Zúñiga Corona",
+    "fecha_nacimiento": "1976-03-23",
+    "genero": "Masculino",
+    "nucleo_familiar": [
+      {
+        "nombre": "Norma Rodolfo Santana",
+        "relacion": "esposa",
+        "edad": 45
+      },
+      {
+        "nombre": "Diego Ramírez Bustos",
+        "relacion": "hijo",
+        "edad": 16
+      },
+      {
+        "nombre": "Victoria Jonás Aguayo Rojo",
+        "relacion": "hijo",
+        "edad": 16
+      }
+    ],
+    "estado_registro": "Pendiente de documentos",
+    "fecha_registro": "2025-10-01",
+    "ultima_actualizacion": "2025-11-03"
+  },
+  {
+    "_id": "d25710ce-6ab5-4f8f-84da-d3121409338d",
+    "tipo_documento": "CC",
+    "numero_documento": "9592748843",
+    "nombre_completo": "José Manuel Duque Ariza",
+    "fecha_nacimiento": "1983-01-19",
+    "genero": "Otro",
+    "nucleo_familiar": [
+      {
+        "nombre": "Sonia Gloria Benavides Robledo",
+        "relacion": "esposo",
+        "edad": 45
+      },
+      {
+        "nombre": "Diana Gómez",
+        "relacion": "hijo",
+        "edad": 9
+      }
+    ],
+    "estado_registro": "Pendiente de documentos",
+    "fecha_registro": "2024-01-17",
+    "ultima_actualizacion": "2024-10-09"
+  },
+  {
+    "_id": "247abfd3-90b9-41f9-b251-eb49632fc56c",
+    "tipo_documento": "TI",
+    "numero_documento": "7983162687",
+    "nombre_completo": "Ana Luisa Puga Jáquez",
+    "fecha_nacimiento": "1979-06-13",
+    "genero": "Femenino",
+    "nucleo_familiar": [
+      {
+        "nombre": "Mariano García Gollum",
+        "relacion": "esposo",
+        "edad": 52
+      }
+    ],
+    "estado_registro": "Rechazado",
+    "fecha_registro": "2024-12-04",
+    "ultima_actualizacion": "2025-11-17"
+  },
+  {
+    "_id": "42afb0ae-47cb-4915-906f-cd59c3526b90",
+    "tipo_documento": "TI",
+    "numero_documento": "3592304213",
+    "nombre_completo": "José Emilio Dalia Benavides Villalobos",
+    "fecha_nacimiento": "1969-02-26",
+    "genero": "Masculino",
+    "nucleo_familiar": [
+      {
+        "nombre": "Alberto Cruz",
+        "relacion": "esposo",
+        "edad": 40
+      },
+      {
+        "nombre": "Edison Carlos Ríos Ruiz",
+        "relacion": "hijo",
+        "edad": 2
+      },
+      {
+        "nombre": "Lic. Elsa Miramontes",
+        "relacion": "hija",
+        "edad": 3
+      }
+    ],
+    "estado_registro": "Aceptado",
+    "fecha_registro": "2024-04-22",
+    "ultima_actualizacion": "2025-08-24"
+  },
+  {
+    "_id": "47c9f2ac-8ad0-4919-9c72-9e2da9c8aade",
+    "tipo_documento": "TI",
+    "numero_documento": "1308598112",
+    "nombre_completo": "José Carmona",
+    "fecha_nacimiento": "1948-02-22",
+    "genero": "Masculino",
+    "nucleo_familiar": [
+      {
+        "nombre": "Lady Gladys Londoño Cerón",
+        "relacion": "esposo",
+        "edad": 40
+      }
+    ],
+    "estado_registro": "Pendiente de documentos",
+    "fecha_registro": "2024-11-23",
+    "ultima_actualizacion": "2025-01-03"
+  },
+  {
+    "_id": "f2c04986-faec-428f-ae86-8ccdfe598dcc",
+    "tipo_documento": "CE",
+    "numero_documento": "0259810093",
+    "nombre_completo": "Ever Hurtado",
+    "fecha_nacimiento": "1968-09-23",
+    "genero": "Femenino",
+    "nucleo_familiar": [],
+    "estado_registro": "Aceptado",
+    "fecha_registro": "2025-06-13",
+    "ultima_actualizacion": "2025-08-29"
+  },
+  {
+    "_id": "6641bc4a-f878-4b29-b031-43e8ca073dee",
+    "tipo_documento": "TI",
+    "numero_documento": "9787135455",
+    "nombre_completo": "Abelardo Polanco Montero",
+    "fecha_nacimiento": "2004-08-20",
+    "genero": "Femenino",
+    "nucleo_familiar": [
+      {
+        "nombre": "Luz Doris Villegas Benavides",
+        "relacion": "esposa",
+        "edad": 78
+      }
+    ],
+    "estado_registro": "Pendiente de documentos",
+    "fecha_registro": "2024-07-19",
+    "ultima_actualizacion": "2025-07-17"
+  },
+  {
+    "_id": "49cb66e5-f66c-4533-80b2-4e798e43e262",
+    "tipo_documento": "CC",
+    "numero_documento": "6993322833",
+    "nombre_completo": "Uriel Blanca Lovato",
+    "fecha_nacimiento": "1948-04-12",
+    "genero": "Masculino",
+    "nucleo_familiar": [
+      {
+        "nombre": "Ramiro Víctor Ayala",
+        "relacion": "esposo",
+        "edad": 29
+      },
+      {
+        "nombre": "Felix Lozano Muñiz",
+        "relacion": "hijo",
+        "edad": 8
+      },
+      {
+        "nombre": "Socorro Quiñones",
+        "relacion": "hijo",
+        "edad": 12
+      },
+      {
+        "nombre": "Sebastián Harvey Quintero Reyes",
+        "relacion": "hijo",
+        "edad": 5
+      }
+    ],
+    "estado_registro": "Rechazado",
+    "fecha_registro": "2025-09-27",
+    "ultima_actualizacion": "2025-11-09"
+  },
+  {
+    "_id": "fcaca2d9-6967-4238-91f2-b10236d785a1",
+    "tipo_documento": "TI",
+    "numero_documento": "6598760853",
+    "nombre_completo": "Luisa María Eugenia Perea",
+    "fecha_nacimiento": "2003-12-17",
+    "genero": "Otro",
+    "nucleo_familiar": [
+      {
+        "nombre": "María Mery Herrera Prada",
+        "relacion": "esposa",
+        "edad": 67
+      },
+      {
+        "nombre": "Daniela Esther León",
+        "relacion": "hija",
+        "edad": 4
+      }
+    ],
+    "estado_registro": "Rechazado",
+    "fecha_registro": "2024-08-23",
+    "ultima_actualizacion": "2025-01-22"
+  },
+  {
+    "_id": "33a0feea-503c-48fe-94f9-412ceb926d4a",
+    "tipo_documento": "TI",
+    "numero_documento": "3708235216",
+    "nombre_completo": "Consuelo Suárez Ríos",
+    "fecha_nacimiento": "1975-02-03",
+    "genero": "Masculino",
+    "nucleo_familiar": [
+      {
+        "nombre": "María Stella Jaramillo",
+        "relacion": "esposo",
+        "edad": 50
+      },
+      {
+        "nombre": "Eva Eliana Peña",
+        "relacion": "hija",
+        "edad": 2
+      },
+      {
+        "nombre": "Teodoro Villanueva Marroquín",
+        "relacion": "hijo",
+        "edad": 1
+      }
+    ],
+    "estado_registro": "En proceso",
+    "fecha_registro": "2025-08-13",
+    "ultima_actualizacion": "2025-10-15"
+  },
+  {
+    "_id": "628b77e3-e75a-416d-80ac-0b5664595b55",
+    "tipo_documento": "CE",
+    "numero_documento": "9881843626",
+    "nombre_completo": "Ing. Ramiro Ocasio",
+    "fecha_nacimiento": "1950-08-13",
+    "genero": "Masculino",
+    "nucleo_familiar": [],
+    "estado_registro": "Aceptado",
+    "fecha_registro": "2024-12-08",
+    "ultima_actualizacion": "2025-03-10"
+  },
+  {
+    "_id": "6f59ed40-7848-44b1-82ee-ceb9639eac8f",
+    "tipo_documento": "CC",
+    "numero_documento": "1957946834",
+    "nombre_completo": "Ing. Homero Porras",
+    "fecha_nacimiento": "1957-08-26",
+    "genero": "Masculino",
+    "nucleo_familiar": [
+      {
+        "nombre": "Cornelio Valles",
+        "relacion": "esposo",
+        "edad": 77
+      },
+      {
+        "nombre": "Zacarías Liliana Leyva Villanueva",
+        "relacion": "hija",
+        "edad": 3
+      }
+    ],
+    "estado_registro": "Rechazado",
+    "fecha_registro": "2024-07-12",
+    "ultima_actualizacion": "2025-04-07"
+  },
+  {
+    "_id": "5414ccf6-61a6-4f1f-b7a6-ffaa04b64d95",
+    "tipo_documento": "TI",
+    "numero_documento": "2134753742",
+    "nombre_completo": "Emilia Alberto Garay Arriaga",
+    "fecha_nacimiento": "1983-11-21",
+    "genero": "Femenino",
+    "nucleo_familiar": [
+      {
+        "nombre": "Dr. Magdalena Maya",
+        "relacion": "esposa",
+        "edad": 43
+      },
+      {
+        "nombre": "Marcela Ángela Zuluaga Garzón",
+        "relacion": "hija",
+        "edad": 12
+      },
+      {
+        "nombre": "Amalia Medina",
+        "relacion": "hija",
+        "edad": 11
+      }
+    ],
+    "estado_registro": "Rechazado",
+    "fecha_registro": "2025-03-05",
+    "ultima_actualizacion": "2025-07-09"
+  },
+  {
+    "_id": "57ff08ba-d8b8-48e1-8289-25c4e0e2aa10",
+    "tipo_documento": "CC",
+    "numero_documento": "8667534204",
+    "nombre_completo": "Andrés Kevin Bolaños",
+    "fecha_nacimiento": "1957-11-09",
+    "genero": "Otro",
+    "nucleo_familiar": [
+      {
+        "nombre": "Mónica Isabel Hernández",
+        "relacion": "hija",
+        "edad": 5
+      },
+      {
+        "nombre": "Yeison Jorge Ortega Caballero",
+        "relacion": "hijo",
+        "edad": 2
+      }
+    ],
+    "estado_registro": "Rechazado",
+    "fecha_registro": "2024-12-31",
+    "ultima_actualizacion": "2025-02-13"
+  },
+  {
+    "_id": "9de64bf4-24a4-4f0a-bd09-060126ec6a2e",
+    "tipo_documento": "CC",
+    "numero_documento": "9107866465",
+    "nombre_completo": "Rosa Sandoval Rubio",
+    "fecha_nacimiento": "1994-03-19",
+    "genero": "Femenino",
+    "nucleo_familiar": [
+      {
+        "nombre": "Moisés Gutiérrez Manrique",
+        "relacion": "esposa",
+        "edad": 19
+      },
+      {
+        "nombre": "Irma Zarate",
+        "relacion": "hija",
+        "edad": 2
+      }
+    ],
+    "estado_registro": "Pendiente de documentos",
+    "fecha_registro": "2025-03-06",
+    "ultima_actualizacion": "2025-03-15"
+  },
+  {
+    "_id": "560dc001-de95-49a6-a9be-7db67c2d0859",
+    "tipo_documento": "TI",
+    "numero_documento": "4709333077",
+    "nombre_completo": "Samuel Escamilla de la Torre",
+    "fecha_nacimiento": "1956-11-20",
+    "genero": "Femenino",
+    "nucleo_familiar": [],
+    "estado_registro": "Aceptado",
+    "fecha_registro": "2025-09-03",
+    "ultima_actualizacion": "2025-09-08"
+  },
+  {
+    "_id": "133d319f-9a4a-4f0f-a6fc-7193962d9351",
+    "tipo_documento": "TI",
+    "numero_documento": "6532324867",
+    "nombre_completo": "Isabel Gómez Chaparro",
+    "fecha_nacimiento": "1970-02-08",
+    "genero": "Femenino",
+    "nucleo_familiar": [
+      {
+        "nombre": "Luz Leidy Mendoza",
+        "relacion": "esposa",
+        "edad": 39
+      },
+      {
+        "nombre": "Gabriela Pablo Salas Corral",
+        "relacion": "hija",
+        "edad": 7
+      },
+      {
+        "nombre": "Johan Arturo Giraldo Ospino",
+        "relacion": "hija",
+        "edad": 10
+      }
+    ],
+    "estado_registro": "En proceso",
+    "fecha_registro": "2025-10-23",
+    "ultima_actualizacion": "2025-11-05"
+  },
+  {
+    "_id": "d9015552-1d74-4041-86eb-1de8c7bd3c2d",
+    "tipo_documento": "CE",
+    "numero_documento": "5626601837",
+    "nombre_completo": "Rodolfo Raúl Bahena",
+    "fecha_nacimiento": "1947-01-25",
+    "genero": "Femenino",
+    "nucleo_familiar": [
+      {
+        "nombre": "Ana Angie Murcia Montes",
+        "relacion": "hijo",
+        "edad": 2
+      },
+      {
+        "nombre": "Ariadna Yolanda Canales",
+        "relacion": "hijo",
+        "edad": 12
+      }
+    ],
+    "estado_registro": "En proceso",
+    "fecha_registro": "2023-12-13",
+    "ultima_actualizacion": "2025-10-27"
+  },
+  {
+    "_id": "da685141-5cd1-4636-8111-8b66e765b687",
+    "tipo_documento": "TI",
+    "numero_documento": "8378663213",
+    "nombre_completo": "Nelly Inés Calderón",
+    "fecha_nacimiento": "1948-11-02",
+    "genero": "Femenino",
+    "nucleo_familiar": [
+      {
+        "nombre": "Leticia Zamudio",
+        "relacion": "esposa",
+        "edad": 19
+      },
+      {
+        "nombre": "Ing. Violeta Cuellar",
+        "relacion": "hija",
+        "edad": 4
+      },
+      {
+        "nombre": "Emiliano Emilio Aguayo Serrano",
+        "relacion": "hijo",
+        "edad": 17
+      }
+    ],
+    "estado_registro": "Aceptado",
+    "fecha_registro": "2024-05-23",
+    "ultima_actualizacion": "2025-11-01"
+  },
+  {
+    "_id": "7ca3acfb-0595-4dfa-84ab-02688b3291f2",
+    "tipo_documento": "CE",
+    "numero_documento": "7678768375",
+    "nombre_completo": "Elvira Rolando Gallegos Mayorga",
+    "fecha_nacimiento": "1948-08-27",
+    "genero": "Otro",
+    "nucleo_familiar": [
+      {
+        "nombre": "Catalina Pichardo Laureano",
+        "relacion": "esposo",
+        "edad": 75
+      },
+      {
+        "nombre": "Isabel Bermúdez",
+        "relacion": "hijo",
+        "edad": 10
+      },
+      {
+        "nombre": "Eduardo Carlos Hurtado Ocampo",
+        "relacion": "hijo",
+        "edad": 10
+      },
+      {
+        "nombre": "Itzel Merino",
+        "relacion": "hijo",
+        "edad": 7
+      }
+    ],
+    "estado_registro": "Pendiente de documentos",
+    "fecha_registro": "2024-09-12",
+    "ultima_actualizacion": "2025-11-02"
+  },
+  {
+    "_id": "90b33d50-50a3-4e8a-8aab-ae1611ffcea3",
+    "tipo_documento": "CC",
+    "numero_documento": "0287714791",
+    "nombre_completo": "Sofía Mireya Polo Flórez",
+    "fecha_nacimiento": "1960-04-05",
+    "genero": "Femenino",
+    "nucleo_familiar": [],
+    "estado_registro": "En proceso",
+    "fecha_registro": "2024-10-11",
+    "ultima_actualizacion": "2025-04-23"
+  },
+  {
+    "_id": "a051e287-4c34-4c92-9680-787867fedd8c",
+    "tipo_documento": "TI",
+    "numero_documento": "0830066145",
+    "nombre_completo": "Iván Martínez Ospina",
+    "fecha_nacimiento": "1980-05-07",
+    "genero": "Otro",
+    "nucleo_familiar": [
+      {
+        "nombre": "María Vanegas Ramón",
+        "relacion": "esposa",
+        "edad": 32
+      },
+      {
+        "nombre": "Cristal Reyna Martínez",
+        "relacion": "hija",
+        "edad": 2
+      },
+      {
+        "nombre": "Clara Rascón Meza",
+        "relacion": "hija",
+        "edad": 8
+      }
+    ],
+    "estado_registro": "Pendiente de documentos",
+    "fecha_registro": "2023-11-24",
+    "ultima_actualizacion": "2024-06-12"
+  }
+]
