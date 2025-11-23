@@ -1,0 +1,51 @@
+// Creación de base de datos (o seleccion en caso de existir) - MongoDB Compass (MongoDB shell)
+use RUV
+
+// Se crean las colecciones correspondientes y en este caso necesarias
+db.createCollection("usuarios");
+
+// Cargar los documentos desde MongoDB Compass en su opción grafica
+
+// Consulta de seleccion por estado de registro
+db.victimas.find({ estado_registro: "Aceptado" });
+
+// Consulta de actualizacion de estado de registro
+db.victimas.updateOne(  { _id: "UUID" },{ $set: { estado_registro: "Revisado", ultima_actualizacion: new Date() } }});
+
+// Consulta de seleccion de victima por _id
+db.victimas.findOne({ _id: "UUID" });
+
+// Consulta para actualizacion de documentos, actualizacion unico documento, por filtro de numero de documento
+db.victimas.updateOne({numero_documento:"123456789"}, {$set: {estado_registro:"Aceptado",ultima_actualizacion: new Date()}});
+
+// Consulta de eliminacion de documentos de la coleccion por numero_documento
+db.victimas.deleteOne({numero_documento:"123456789"});
+
+// Consulta de seleccion (filtro) por genero
+db.victimas.find({ genero: "Masculino" });
+
+// Filtro por rango de fechas
+db.victimas.find({ fecha_registro: {$gte: "2024-06-01",$lte: "2024-12-31"}});
+
+// Creación de Index para filtrado - mejora del rendimiento
+db.victimas.createIndex({ nombre_completo: "text"});
+db.victimas.createIndex({ numero_documento: 1},{unique: true});
+
+// Filtrado a traves de index por mejora de rendimiento
+db.victimas.find({ $text: { $search: "Juan" } });
+
+// ---------- CONSULTAS DE AGREGACION PARA CALCULO DE ESTADISTICAS --------------------------- //
+// Consulta de victimas registradas en la coleccion
+db.victimas.aggregate([{$count: "total_victimas"}]);
+
+// Cantidad de victimas por genero
+db.victimas.aggregate([{ $group:{_id:"$genero",total: {$sum: 1}}}]);
+
+// Calculo de promedio de nucleo familiar
+db.victimas.aggregate([{$group:{_id:"estado_registro", promedio_nucleo: 
+  { $avg: {$size: "$nucleo_familiar"}},total_regisstros:{$sum: 1}}}, 
+  { $project:{ _id:1,total_registros:1,promedio_nucleo: {$round:["$promedio_nucleo",2]}}}]);
+
+// Conteo de cantidad de documentos por estado de registro
+db.victimas.aggregate([{$group:{_id:"$estado_registro",total: {$sum: 1}}},{$sort:{total:-1}}]);
+  
