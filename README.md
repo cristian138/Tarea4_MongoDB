@@ -167,3 +167,9 @@ db.victimas.aggregate([
     { $sort: { total: -1 } }
 ]);
 ```
+
+#### DATOS DE ESTUDIANTE:
+* **NOMBRE COMPLETO:** CRISTIAN CAMILO PRIETO ROA
+* **DOCUMENTO:** 1003587719
+* **CORREO INSTITUCIONAL:** ccprietor@unadvirtual.edu.co
+* **CURSO:** BIG-DATA (2025 II 16-04)
